@@ -1,9 +1,13 @@
 # 📊 Estimation of Confidence Intervals for Print-Head Durability
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Statistics](https://img.shields.io/badge/Statistics-Confidence%20Interval-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Statistics](https://img.shields.io/badge/Statistics-Inference-green)
+![Confidence Interval](https://img.shields.io/badge/Concept-Confidence%20Interval-orange)
+![Hypothesis Testing](https://img.shields.io/badge/Concept-Hypothesis%20Testing-yellow)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-purple)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/MeghanaCVarghese/Confidence-Interval-Estimation)
 ---
 
 ## 📌 Project Overview
