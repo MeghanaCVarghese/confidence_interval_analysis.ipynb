@@ -7,7 +7,6 @@
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-purple)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/MeghanaCVarghese/Confidence-Interval-Estimation)
 ---
 
 ## 📌 Project Overview
