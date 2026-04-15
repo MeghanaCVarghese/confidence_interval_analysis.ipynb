@@ -101,9 +101,24 @@ Durability values (in million characters):
 
 ---
 
+## 📊 Business Impact
+
+- Helps estimate product reliability with limited samples  
+- Reduces cost of destructive testing  
+- Supports data-driven decision making in manufacturing
+
+---
+
 ## 🚀 How to Run
 
 ```bash
 git clone https://github.com/MeghanaCVarghese/Confidence-Interval-Estimation.git
 cd Confidence-Interval-Estimation
 pip install -r requirements.txt
+
+---
+
+## 👩‍💻 Author
+
+Meghana C Varghese
+Data Scientist | Machine Learning Enthusiast
